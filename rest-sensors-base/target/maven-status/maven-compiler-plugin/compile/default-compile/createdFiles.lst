@@ -1,0 +1,11 @@
+de/tub/ise/anwsys/controllers/HelloController.class
+de/tub/ise/anwsys/controllers/ProductController.class
+de/tub/ise/anwsys/repos/ProductRepository.class
+de/tub/ise/anwsys/models/Product.class
+de/tub/ise/anwsys/repos/UserRepository.class
+de/tub/ise/anwsys/Server.class
+de/tub/ise/anwsys/models/MeasuredData.class
+de/tub/ise/anwsys/models/Spannung.class
+de/tub/ise/anwsys/models/User.class
+de/tub/ise/anwsys/models/dataType.class
+de/tub/ise/anwsys/models/SmartMeter.class

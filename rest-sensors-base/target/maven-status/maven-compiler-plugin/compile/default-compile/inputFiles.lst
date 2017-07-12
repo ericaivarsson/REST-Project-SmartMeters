@@ -1,0 +1,11 @@
+/Users/EricaIvarsson/REST-Basisprojekte-Eclipse/rest-sensors-base/src/main/java/de/tub/ise/anwsys/models/MeasuredData.java
+/Users/EricaIvarsson/REST-Basisprojekte-Eclipse/rest-sensors-base/src/main/java/de/tub/ise/anwsys/models/Spannung.java
+/Users/EricaIvarsson/REST-Basisprojekte-Eclipse/rest-sensors-base/src/main/java/de/tub/ise/anwsys/models/User.java
+/Users/EricaIvarsson/REST-Basisprojekte-Eclipse/rest-sensors-base/src/main/java/de/tub/ise/anwsys/models/SmartMeter.java
+/Users/EricaIvarsson/REST-Basisprojekte-Eclipse/rest-sensors-base/src/main/java/de/tub/ise/anwsys/models/Product.java
+/Users/EricaIvarsson/REST-Basisprojekte-Eclipse/rest-sensors-base/src/main/java/de/tub/ise/anwsys/controllers/HelloController.java
+/Users/EricaIvarsson/REST-Basisprojekte-Eclipse/rest-sensors-base/src/main/java/de/tub/ise/anwsys/repos/ProductRepository.java
+/Users/EricaIvarsson/REST-Basisprojekte-Eclipse/rest-sensors-base/src/main/java/de/tub/ise/anwsys/controllers/ProductController.java
+/Users/EricaIvarsson/REST-Basisprojekte-Eclipse/rest-sensors-base/src/main/java/de/tub/ise/anwsys/models/dataType.java
+/Users/EricaIvarsson/REST-Basisprojekte-Eclipse/rest-sensors-base/src/main/java/de/tub/ise/anwsys/repos/UserRepository.java
+/Users/EricaIvarsson/REST-Basisprojekte-Eclipse/rest-sensors-base/src/main/java/de/tub/ise/anwsys/Server.java
