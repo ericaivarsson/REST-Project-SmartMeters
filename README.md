@@ -1,4 +1,2 @@
 # REST-Project-SmartMeters
-A project for the TU Berlin. 
-
-It is still in progress! 
+A project for the course Anwendungssysteme at TU Berlin.
